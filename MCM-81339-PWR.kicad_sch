@@ -1100,7 +1100,7 @@
     (property "Reference" "D1" (id 0) (at 265.43 95.5674 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "LED" (id 1) (at 265.43 98.1074 90)
+    (property "Value" "150060RS55040" (id 1) (at 265.43 98.1074 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 262.89 95.25 0)
