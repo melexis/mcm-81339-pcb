@@ -1,4 +1,4 @@
-### Module positions - created on wo 03 jul 2024 14:45:51 ###
+### Module positions - created on do 04 jul 2024 08:26:42 ###
 ### Printed by Pcbnew version 6.0.11-2627ca5db0~126~ubuntu22.04.1
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -83,9 +83,9 @@ R18       /                    R_0603_1608Metric                                
 R19       2k                   R_0603_1608Metric                                        93.5736   -49.0850  -90.0000  top
 R20       2k7                  R_0402_1005Metric                                        83.3180   -80.3400    0.0000  top
 R21       /                    R_0402_1005Metric                                        82.6000   -77.4000  -90.0000  top
-R22       12k                  R_0402_1005Metric                                        74.7014   -77.3430   90.0000  top
+R22       9k09                 R_0402_1005Metric                                        74.7014   -77.3430   90.0000  top
 R23       1k                   R_0402_1005Metric                                        75.0316   -75.2602   90.0000  top
-R24       12k                  R_0402_1005Metric                                        72.1000   -67.6000  180.0000  top
+R24       9k09                 R_0402_1005Metric                                        72.1000   -67.6000  180.0000  top
 R25       1k                   R_0402_1005Metric                                        72.1000   -66.4500    0.0000  top
 R26       100k                 R_0402_1005Metric                                        71.4756   -57.9120    0.0000  top
 R27       100k                 R_0402_1005Metric                                        72.3646   -60.6298  -90.0000  top
