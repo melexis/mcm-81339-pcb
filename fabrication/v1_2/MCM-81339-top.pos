@@ -1,4 +1,4 @@
-### Footprint positions - created on Fri 14 Feb 2025 09:20:47 CET ###
+### Footprint positions - created on Sun 16 Feb 2025 15:59:16 CET ###
 ### Printed by KiCad version 7.0.11+dfsg-1build4
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -44,10 +44,10 @@ D10       150060RS55040        LED_0603_1608Metric                              
 D11       ESD9B5.0ST5G         D_SOD-923                                                70.9930   -62.7380  -90.0000  top
 D12       ESD9B5.0ST5G         D_SOD-923                                                70.9930   -60.8584   90.0000  top
 D13       ESD9B5.0ST5G         D_SOD-923                                                71.2724   -58.9788    0.0000  top
-D14       /                    D_SOD-323F                                               85.0000   -87.3000   90.0000  top
-D15       /                    D_SOD-323F                                               67.3750   -87.2250   90.0000  top
-D16       ESD5Z24              D_SOD-523                                                81.4000   -98.0000   90.0000  top
-D17       ESD5Z24              D_SOD-523                                                64.5922   -95.0214    0.0000  top
+D14       /                    D_SOD-123F                                               85.0000   -87.7750   90.0000  top
+D15       /                    D_SOD-123F                                               68.6500   -86.4500    0.0000  top
+D16       SMF24A               D_SOD-123F                                               80.0000   -97.4500    0.0000  top
+D17       SMF24A               D_SOD-123F                                               64.0500   -95.2500    0.0000  top
 D18       DESD5V0S1BA-7        D_SOD-323                                                90.2500   -87.1000  -90.0000  top
 D19       DESD5V0S1BA-7        D_SOD-323                                                88.1500   -84.0000   90.0000  top
 FID1      Fiducial             Fiducial_0.75mm_Mask1.5mm                                65.8500   -55.7500    0.0000  top
@@ -94,7 +94,7 @@ R27       110k                 R_0402_1005Metric                                
 R28       100R                 R_0603_1608Metric                                        86.3750   -83.8750  -90.0000  top
 R29       0R                   R_0603_1608Metric                                        87.0000   -87.3000  -90.0000  top
 R30       100R                 R_0603_1608Metric                                        91.0250   -83.8750  -90.0000  top
-R31       0R                   R_0603_1608Metric                                        69.2500   -87.2000  -90.0000  top
+R31       0R                   R_0603_1608Metric                                        67.9500   -88.4500  180.0000  top
 R32       /                    R_0402_1005Metric                                        82.7000   -65.8500  -90.0000  top
 R33       /                    R_0402_1005Metric                                        83.8000   -65.8500  -90.0000  top
 R34       /                    R_0402_1005Metric                                        84.9000   -65.8500  -90.0000  top
