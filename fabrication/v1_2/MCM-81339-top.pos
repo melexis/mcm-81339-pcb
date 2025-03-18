@@ -1,4 +1,4 @@
-### Footprint positions - created on Sun 16 Feb 2025 15:59:16 CET ###
+### Footprint positions - created on Tue 18 Mar 2025 09:04:26 AM CET ###
 ### Printed by KiCad version 7.0.11+dfsg-1build4
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -46,8 +46,8 @@ D12       ESD9B5.0ST5G         D_SOD-923                                        
 D13       ESD9B5.0ST5G         D_SOD-923                                                71.2724   -58.9788    0.0000  top
 D14       /                    D_SOD-123F                                               85.0000   -87.7750   90.0000  top
 D15       /                    D_SOD-123F                                               68.6500   -86.4500    0.0000  top
-D16       SMF24A               D_SOD-123F                                               80.0000   -97.4500    0.0000  top
-D17       SMF24A               D_SOD-123F                                               64.0500   -95.2500    0.0000  top
+D16       SMF24A               D_SOD-123F                                               80.0000   -97.4500  180.0000  top
+D17       SMF24A               D_SOD-123F                                               64.0500   -95.2500  180.0000  top
 D18       DESD5V0S1BA-7        D_SOD-323                                                90.2500   -87.1000  -90.0000  top
 D19       DESD5V0S1BA-7        D_SOD-323                                                88.1500   -84.0000   90.0000  top
 FID1      Fiducial             Fiducial_0.75mm_Mask1.5mm                                65.8500   -55.7500    0.0000  top
