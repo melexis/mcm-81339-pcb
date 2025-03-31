@@ -12,3 +12,5 @@ Version 1.2:
 * 2A increase track with to .8mm
 * Increase fiducial size
 
+Version 1.3:
+* Update ESP to ESP32-S3-WROOM-1-N16R8
