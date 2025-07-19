@@ -16,3 +16,4 @@ Version 1.3:
 * Update: ESP to ESP32-S3-WROOM-1-N16R8
 * Add: optional 2k2 pull up on IO7 for debug purposes
 * Add: optional 220pF cap on IO6 for debug purposes
+* Update: USB connector to C type
