@@ -6,7 +6,7 @@ control the [Melexis](https://www.melexis.com) generation 4 motor driver product
 The MCM-81339 is a hardware platform which is built upon the [Espressif](https://www.espressif.com/) ESP32 and provides
 an easy to use evaluation setup for the MLX81339 embedded motor driver IC.
 
-<img src="fabrication/v1_2/MCM-81339-top.png" width="30%">
+<img src="fabrication/v1_3/MCM-81339-top.png" width="30%">
 
 To explore the schematic and layout one can clone this repository and install KiCad or use [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fmelexis%2Fmcm-81339-pcb).
 
