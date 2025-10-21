@@ -1,4 +1,7 @@
-Version 1.2:
+# Changelog
+
+## Version 1.2
+
 * R26 100k -> 87k6
 * R27 100k -> 110k
 * C21 4.7uF -> 10uF
@@ -12,8 +15,13 @@ Version 1.2:
 * 2A increase track with to .8mm
 * Increase fiducial size
 
-Version 1.3:
+## Version 1.3
+
 * Update: ESP to ESP32-S3-WROOM-1-N16R8
 * Add: optional 2k2 pull up on IO7 for debug purposes
 * Add: optional 220pF cap on IO6 for debug purposes
 * Update: USB connector to C type
+
+## Version 1.4
+
+* Add power jack voltage range and polarity in silkscreen
