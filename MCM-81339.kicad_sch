@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "10a668bb-e341-4631-a862-dadf8a9a10bc")
 	(paper "A4")
+	(title_block
+		(title "MCM-81339")
+		(date "2026-01-28")
+		(rev "v1.5")
+		(company "Melexis")
+	)
 	(lib_symbols
 		(symbol "Mechanical:Fiducial"
 			(exclude_from_sim no)

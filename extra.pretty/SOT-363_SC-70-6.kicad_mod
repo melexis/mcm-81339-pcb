@@ -5,10 +5,9 @@
 	(layer "F.Cu")
 	(descr "SOT-363, SC-70-6, SC-88")
 	(tags "SOT-363 SC-70-6 SC-88")
-	(property "Reference" "U3"
+	(property "Reference" "REF**"
 		(at 0 -2.25 0)
 		(layer "F.SilkS")
-		(hide yes)
 		(uuid "3d06064a-24d5-4913-949d-98f0d7a21913")
 		(effects
 			(font
@@ -20,7 +19,6 @@
 	(property "Value" "TMUX1219DCKR"
 		(at 0 2 180)
 		(layer "F.Fab")
-		(hide yes)
 		(uuid "9dbc782a-14aa-46f7-877a-e88c827141a1")
 		(effects
 			(font

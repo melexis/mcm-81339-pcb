@@ -5,10 +5,9 @@
 	(layer "F.Cu")
 	(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 	(tags "Through hole pin header THT 1x04 2.54mm single row")
-	(property "Reference" "J4"
+	(property "Reference" "REF**"
 		(at 0 -2.33 0)
 		(layer "F.SilkS")
-		(hide yes)
 		(uuid "8f0ce9c1-1d11-4ca2-8e00-b8684f93f1e7")
 		(effects
 			(font
@@ -20,7 +19,6 @@
 	(property "Value" "Conn_01x04"
 		(at 0 9.95 0)
 		(layer "F.Fab")
-		(hide yes)
 		(uuid "8c483f6b-3d38-4256-ba95-dbc90d27b2fe")
 		(effects
 			(font

@@ -76,11 +76,6 @@
   ],
   "MaterialStackup": [
     {
-      "Type": "Legend",
-      "Color": "White",
-      "Name": "Top Silk Screen"
-    },
-    {
       "Type": "SolderPaste",
       "Name": "Top Solder Paste"
     },
