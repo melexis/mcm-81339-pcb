@@ -3755,7 +3755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Melexis:HPC4018NF-Series"
+		(property "Footprint" "extra:HPC4018NF-Series"
 			(at 146.05 81.28 0)
 			(effects
 				(font

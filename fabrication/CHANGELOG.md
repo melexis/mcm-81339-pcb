@@ -24,4 +24,6 @@
 
 ## Version 1.4
 
-* Add power jack voltage range and polarity in silkscreen
+* Add: power jack voltage range and polarity in silkscreen
+* Update: cleanup fabrication layer and placement drawing
+* Update: change J6,J7 into J11
