@@ -27,3 +27,8 @@
 * Add: power jack voltage range and polarity in silkscreen
 * Update: cleanup fabrication layer and placement drawing
 * Update: change J6,J7 into J11
+
+## Version 1.4.1
+
+* Update: R12 to 4k7
+* Update: D5 to BAS70WS

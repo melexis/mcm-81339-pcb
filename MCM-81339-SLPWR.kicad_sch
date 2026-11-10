@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "MCM-81339")
-		(date "2026-01-28")
-		(rev "v1.5")
+		(date "2026-11-10")
+		(rev "v1.4.1")
 		(company "Melexis")
 	)
 	(lib_symbols
@@ -3755,7 +3755,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BAT54J"
+		(property "Value" "BAS70WS"
 			(at 154.94 113.3474 90)
 			(effects
 				(font
@@ -3773,7 +3773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf"
+		(property "Datasheet" ""
 			(at 152.4 111.76 0)
 			(effects
 				(font
@@ -3782,12 +3782,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIODE SCHOTTKY 70V 200MA SOD323"
 			(at 152.4 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4106,7 +4107,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "4k7"
 			(at 144.78 113.0299 0)
 			(effects
 				(font

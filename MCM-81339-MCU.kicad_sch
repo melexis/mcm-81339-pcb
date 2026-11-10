@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "MCM-81339")
-		(date "2026-01-28")
-		(rev "v1.5")
+		(date "2026-11-10")
+		(rev "v1.4.1")
 		(company "Melexis")
 	)
 	(lib_symbols
@@ -9236,7 +9236,7 @@
 			(uuid "ea67b78b-e36e-4b98-bb98-2f5e8f96c96a")
 		)
 		(instances
-			(project ""
+			(project "MCM-81339"
 				(path "/10a668bb-e341-4631-a862-dadf8a9a10bc/9c2d2be5-5ec8-4be4-ace1-11635aa4e179"
 					(reference "J11")
 					(unit 1)
