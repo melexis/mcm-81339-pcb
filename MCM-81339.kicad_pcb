@@ -8205,7 +8205,7 @@
 				)
 			)
 		)
-		(property "Value" "BAS70WS"
+		(property "Value" "SD106WS"
 			(at 0.1 1.9 90)
 			(layer "F.Fab")
 			(hide yes)

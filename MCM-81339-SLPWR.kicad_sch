@@ -3755,7 +3755,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BAS70WS"
+		(property "Value" "SD106WS"
 			(at 154.94 113.3474 90)
 			(effects
 				(font
