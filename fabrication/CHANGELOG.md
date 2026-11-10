@@ -31,4 +31,4 @@
 ## Version 1.4.1
 
 * Update: R12 to 4k7
-* Update: D5 to BAS70WS
+* Update: D5 to SD106WS
