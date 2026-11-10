@@ -7,7 +7,7 @@
 	(title_block
 		(title "MCM-81339")
 		(date "2026-11-10")
-		(rev "v1.4.1")
+		(rev "v1.5.0")
 		(company "Melexis")
 	)
 	(lib_symbols
